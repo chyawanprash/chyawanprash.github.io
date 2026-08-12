@@ -1,2 +1,3 @@
-# chyawanprash.github.io
-web
+### chyawanprash pirates
+
+~ A team of stupid sofisticated geeks helping anthropic reach thier annual target revenue.
