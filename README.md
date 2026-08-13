@@ -12,4 +12,4 @@
 [![GPL v3](https://www.gnu.org/graphics/gplv3-127x51.png)](LICENSE)
 
 ---
-![Stallman](https://stallman.org/photos/rms-working/img_1755.jpg)
+<img width="793" height="367" alt="image" src="https://stallman.org/photos/rms-working/img_1755.jpg" />
